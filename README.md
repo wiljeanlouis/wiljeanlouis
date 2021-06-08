@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Wilky, I'm a fullstack web developer using java/javascript technologies.
+I'm currently working on a blog project.
+
 
 <!--
 **Jilouwikyky/jilouwikyky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
