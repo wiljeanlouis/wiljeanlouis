@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Wilky, I'm a fullstack web developer using java/javascript technologies.
-I'm currently working on a blog project.
+
+I'm currently working on my personal website using jekyll and github pages.
 
 
 <!--
